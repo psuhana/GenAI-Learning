@@ -1,0 +1,41 @@
+Machine learning is a branch of artificial intelligence that allows systems to learn patterns from data.
+
+Supervised learning uses labeled data to train models for prediction tasks.
+
+Unsupervised learning finds hidden patterns in unlabeled data.
+
+Overfitting happens when a model memorizes training data instead of generalizing well to new data.
+
+Cross validation helps evaluate whether a model performs consistently across different subsets of data.
+
+Python is widely used in machine learning because of libraries like pandas, numpy, and scikit-learn.
+
+SQL is used to query and manage relational databases.
+
+Vector databases are designed to store embeddings and perform similarity search efficiently.
+
+Embeddings convert text into numerical vector representations that capture semantic meaning.
+
+Retrieval Augmented Generation combines retrieval systems with language models to answer questions using external knowledge.
+
+FastAPI is commonly used to deploy machine learning and AI applications as APIs.
+
+Large Language Models can generate human-like text and assist with reasoning tasks.
+
+Cosine similarity measures how similar two vectors are in direction.
+
+Neural networks are inspired by the structure of the human brain and are widely used in deep learning.
+
+Data preprocessing includes cleaning, transforming, and preparing raw data before training machine learning models.
+
+Feature engineering helps improve model performance by creating meaningful input variables.
+
+Prompt engineering is the practice of designing prompts that guide language models effectively.
+
+LangChain helps developers build workflows and applications using large language models.
+
+ChromaDB is a vector database commonly used in beginner RAG applications.
+
+Docker helps package applications and their dependencies into portable containers.
+
+Cloud platforms like AWS, Azure, and GCP are commonly used for deploying AI systems.
