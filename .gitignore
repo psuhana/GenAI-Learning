@@ -221,3 +221,5 @@ memory*.json
 api_key.txt
 .env
 chroma/
+chroma_storage/
+__pycache__/
