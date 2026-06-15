@@ -1,0 +1,25 @@
+[
+    {
+        "collection_count": 23,
+        "query": "what are embeddings?",
+        "rewritten query": "AI embeddings definition and usage",
+        "rewritten query version": "v1",
+        "retrieved chunks": [
+            "Vector databases are designed to store embeddings and perform similarity search efficiently. Embeddings convert text into numerical vector representations that capture semantic meaning.",
+            "Embeddings convert text into numerical vector representations that capture semantic meaning. Retrieval Augmented Generation combines retrieval systems with language models to answer questions using external knowledge."
+        ],
+        "answer": "Embeddings convert text into numerical vector representations that capture semantic meaning."
+    }
+][
+    {
+        "collection_count": 23,
+        "query": "explain embeddings?",
+        "rewritten query": "embeddings explanation AI/RAG",
+        "rewritten query version": "v1",
+        "retrieved chunks": [
+            "Embeddings convert text into numerical vector representations that capture semantic meaning. Retrieval Augmented Generation combines retrieval systems with language models to answer questions using external knowledge.",
+            "Vector databases are designed to store embeddings and perform similarity search efficiently. Embeddings convert text into numerical vector representations that capture semantic meaning."
+        ],
+        "answer": "Embeddings convert text into numerical vector representations that capture semantic meaning."
+    }
+]
